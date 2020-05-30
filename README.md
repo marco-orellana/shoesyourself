@@ -13,6 +13,8 @@ The server (made with Node.js) offers a REST API that communicate with JSON (mad
 I worked in the files and functions that allows the app to make REST calls to the external server.
 
 
+
+
 Here is the path to the android source code:  
 _shoesyourself\android\app\src\main\java\com\example\shoesyourself_
 
@@ -21,6 +23,8 @@ All the files in the folders _entities_, _helpers_, _managers_ and _services_ wa
 
 
 The modifications made in the app will be made in the internal database (SQLite) and then synchronize with the external server.
+
+
 
 
 We had a 1 week deadline for this project.
