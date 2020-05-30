@@ -30,7 +30,7 @@ We had a 1 week deadline for this project.
 1. You need to have [Node.js]( https://nodejs.org/en/) otherwise install the LTS version.
 2. Clone or download the repository.
 3. On the server path : _shoesyourself/server_ do npm ci et once all the dependencies are installed do npm start
-4. Open the project with [Android Studio](https://developer.android.com/studio).'
+4. Open the project with [Android Studio](https://developer.android.com/studio).
 5. In the seciton _/helpers/DataBaseHelper_, change URL_SERVER with your ipv4 adress like this: _http://yourIpAdress:8080_ (do not forget to put :8080)
 6. Connect your phone (Android) 
 7. Press _f6_ in Android Studio.
