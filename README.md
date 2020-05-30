@@ -17,7 +17,7 @@ Here is the path to the android source code:
 _shoesyourself\android\app\src\main\java\com\example\shoesyourself_
 
 
-All the files in _entities_, _helpers_, _managers_ and _services_ was made by me.
+All the files in the folders _entities_, _helpers_, _managers_ and _services_ was made by me.
 
 
 The modifications made in the app will be made in the internal database (SQLite) and then synchronize with the external server.
