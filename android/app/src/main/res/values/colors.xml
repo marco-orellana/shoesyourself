@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9953AFCC</color>
+    <color name="colorPrimaryDark">#9953AFCC</color>
+    <color name="colorAccent">#57F0B4CE</color>
+    <color name="colorLightGray">#7753AFCC</color>
+    <color name="colorLightGrayBtn">#CD53AFCC</color>
+    <color name="editTextUser">#DADADA</color>
+</resources>

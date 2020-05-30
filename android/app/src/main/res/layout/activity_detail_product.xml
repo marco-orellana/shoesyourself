@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@drawable/product_item_bg"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/tv_title_product_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5sp"
+        android:textAlignment="center"
+        android:textColor="#C4000000"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        tools:text="Shoes_Name" />
+
+    <ImageView
+        android:id="@+id/img_product_detail"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/shoes_png" />
+
+    <TextView
+        android:id="@+id/tv_price_product_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5sp"
+        android:textAlignment="center"
+        android:textColor="#C4000000"
+        android:textSize="25sp"
+        android:textStyle="italic"
+        tools:text="00, 00 $" />
+
+    <TextView
+        android:id="@+id/tv_description_product_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10sp"
+        android:textAlignment="center"
+        android:textColor="#C4000000"
+        android:textSize="15sp"
+        android:textStyle="italic"
+        tools:text="description" />
+
+    <Button
+        android:id="@+id/btn_close_alert_dialog"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="@drawable/ic_cancel" />
+</LinearLayout>
